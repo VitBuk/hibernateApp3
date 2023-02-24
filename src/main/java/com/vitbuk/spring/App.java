@@ -2,8 +2,8 @@ package com.vitbuk.spring;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
 
-import java.lang.module.Configuration;
 
 /**
  * Hello world!
