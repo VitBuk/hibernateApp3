@@ -1,7 +1,6 @@
 package com.vitbuk.spring.model;
 
-import jakarta.persistence.*;
-
+import javax.persistence.*;
 import java.util.List;
 
 @Entity
